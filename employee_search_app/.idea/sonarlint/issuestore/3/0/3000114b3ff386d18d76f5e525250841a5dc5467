@@ -1,0 +1,37 @@
+
+Z
+java:S1155">Use isEmpty() to check whether the collection is empty or not.(—¶¿˜ıÿÿÿÿ
+b
+java:S1192&"GDefine a constant instead of duplicating this literal "gender" 4 times.(à´‹Êøÿÿÿÿ
+U	java:S106Q"9Replace this use of System.out or System.err by a logger.(îÍã8›Ó±Ø/
+O	java:S106¢"9Replace this use of System.out or System.err by a logger.(îÍã
+A
+java:S1168"+Return an empty collection instead of null.(¥¹ï
+
+java:S1192,"jDefine a constant instead of duplicating this literal "Internal error occured.. Contact sysadmin" 4 times.(¹²î|
+\
+java:S1192"GDefine a constant instead of duplicating this literal "deptid" 4 times.(ğªõ:
+c
+java:S1192%"HDefine a constant instead of duplicating this literal "contact" 4 times.(ó½æŞÿÿÿÿÿ
+N	java:S106w"9Replace this use of System.out or System.err by a logger.(îÍã
+j
+java:S2095"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(½¨“Ğúÿÿÿÿ
+f
+java:S1192"PDefine a constant instead of duplicating this literal "department_name" 4 times.(úş•´
+j
+java:S2095a"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(½¨“Ğúÿÿÿÿ
+k
+java:S2095Œ"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(½¨“Ğúÿÿÿÿ
+N	java:S106+"9Replace this use of System.out or System.err by a logger.(îÍã
+B
+java:S1168„"+Return an empty collection instead of null.(¥¹ï
+i
+java:S1192"NDefine a constant instead of duplicating this literal "base_location" 4 times.(—Ôúÿÿÿÿ
+q
+java:S2095;"OUse try-with-resources or close this "PreparedStatement" in a "finally" clause.(½¨“Ğúÿÿÿÿ8›Ó±Ø/
+`
+java:S1155M">Use isEmpty() to check whether the collection is empty or not.(—¶¿˜ıÿÿÿÿ8›Ó±Ø/
+Y
+java:S1155s">Use isEmpty() to check whether the collection is empty or not.(—¶¿˜ıÿÿÿÿ
+A
+java:S1168Y"+Return an empty collection instead of null.(¥¹ï

@@ -1,0 +1,6 @@
+
+y
+java:S1104"WMake description a static final constant or non-public and provide accessors if needed.(¹ÿ†ğÿÿÿÿÿ8˜É¹®/
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(°€Òşÿÿÿÿ
+u
+java:S1104"XMake optionNumber a static final constant or non-public and provide accessors if needed.(ˆä²Å8˜É¹®/

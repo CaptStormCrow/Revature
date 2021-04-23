@@ -1,0 +1,6 @@
+
+X
+java:S1854";Remove this useless assignment to local variable "welcome".(ψχώ8φωμ°/
+I
+java:S1481",Remove this unused "welcome" local variable.(ψχώ8Υ£ν°/
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(°€Òώÿÿÿÿ

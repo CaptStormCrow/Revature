@@ -1,0 +1,6 @@
+
+o	java:S100%"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.( ‘ˆüÿÿÿÿ8‰ÃĞ/
+o	java:S100)"NRename this method name to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Á”¶“øÿÿÿÿ8‰ÃĞ/
+r	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¸÷˜Õøÿÿÿÿ8‚‚ÂĞ/
+r	java:S117)"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(Á”¶“øÿÿÿÿ8‰ÃĞ/
+t	java:S116"XRename this field "base_location" to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ÊÅÔ„8Ú‹¼Ğ/

@@ -1,0 +1,20 @@
+[INFO]    - {org.log4j.demo.Main}    Hello from INFO    Apr-16-21 Friday CDT 15:49:01    
+[WARN]    - {org.log4j.demo.Main}    Hello from WARN    Apr-16-21 Friday CDT 15:49:01    
+[ERROR]    - {org.log4j.demo.Main}    Hello from ERROR    Apr-16-21 Friday CDT 15:49:01    
+[FATAL]    - {org.log4j.demo.Main}    Hello from FATAL    Apr-16-21 Friday CDT 15:49:01    
+[INFO]    - {org.log4j.demo.service.Service}    Service was called with val: testservice1    Apr-16-21 Friday CDT 15:49:01    
+[INFO]    - {org.log4j.demo.service.Service}    Service was done correctly    Apr-16-21 Friday CDT 15:49:01    
+[INFO]    - {org.log4j.demo.Main}    Hello from INFO    Apr-16-21 Friday CDT 15:49:21    
+[WARN]    - {org.log4j.demo.Main}    Hello from WARN    Apr-16-21 Friday CDT 15:49:21    
+[ERROR]    - {org.log4j.demo.Main}    Hello from ERROR    Apr-16-21 Friday CDT 15:49:21    
+[FATAL]    - {org.log4j.demo.Main}    Hello from FATAL    Apr-16-21 Friday CDT 15:49:21    
+[INFO]    - {org.log4j.demo.service.Service}    Service was called with val: testservice1    Apr-16-21 Friday CDT 15:49:21    
+[INFO]    - {org.log4j.demo.service.Service}    Service was done correctly    Apr-16-21 Friday CDT 15:49:21    
+[INFO]    - {org.log4j.demo.Main}    Hello from INFO    Apr-16-21 Friday CDT 15:51:02    
+[WARN]    - {org.log4j.demo.Main}    Hello from WARN    Apr-16-21 Friday CDT 15:51:02    
+[ERROR]    - {org.log4j.demo.Main}    Hello from ERROR    Apr-16-21 Friday CDT 15:51:02    
+[FATAL]    - {org.log4j.demo.Main}    Hello from FATAL    Apr-16-21 Friday CDT 15:51:02    
+[INFO]    - {org.log4j.demo.service.Service}    Service was called with val: testservice1    Apr-16-21 Friday CDT 15:51:02    
+[INFO]    - {org.log4j.demo.service.Service}    Service was done correctly    Apr-16-21 Friday CDT 15:51:02    
+[INFO]    - {org.log4j.demo.service.Service}    Service was called with val: testservice2    Apr-16-21 Friday CDT 15:51:02    
+[INFO]    - {org.log4j.demo.service.Service}    Service was done correctly    Apr-16-21 Friday CDT 15:51:02    
